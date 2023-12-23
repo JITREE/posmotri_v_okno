@@ -81,6 +81,7 @@ fieldset{
   height: 298px;
   width: 100%;
   overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .content__list-item:not(:last-child){
